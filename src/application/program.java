@@ -14,6 +14,7 @@ public class program {
         Scanner sc = new Scanner(System.in);
         
         while (true) {
+            UI.clearScreen();
             UI.printBoard(ch.getPieces());
             System.out.println();
             System.out.print("Source: ");
