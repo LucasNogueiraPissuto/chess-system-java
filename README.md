@@ -1,4 +1,4 @@
-# Tabuleiro de Xadrez em JAVA
+# Tabuleiro de Xadrez
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -44,5 +44,3 @@ A partir do diretório raiz do projeto rode o seguinte comando no CMD:
 java -cp out/production/chess-system application.Program
 
 ```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
