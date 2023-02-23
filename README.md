@@ -50,7 +50,7 @@ java -cp out/production/chess-system application.Program
 |---|---|---|---|
 | ![Screenshot_1](https://user-images.githubusercontent.com/56324728/90350890-e12cd180-e014-11ea-819f-ae9f66638d24.png)  | ![Screenshot_1](https://user-images.githubusercontent.com/56324728/90351151-c1e27400-e015-11ea-9359-b37b1ae7a6b0.png)  | ![Screenshot_1](https://user-images.githubusercontent.com/56324728/90351243-1be33980-e016-11ea-8570-c39c178a2515.png)  | ![image](https://user-images.githubusercontent.com/56324728/90351276-3c12f880-e016-11ea-9891-211e715d2241.png)  |
 
-5. **Observações:** :pencil:
+5. 📝 **Observações:**
 - Peças: Peão, Torre, Cavalo, Bispo, Rainha e Rei
 
 | Pawn(Peão) | Rook(Torre) |  Knight(Cavalo) | Bishop(Bispo)  |  Queen(Rainha) | King(Rei)  |
