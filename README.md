@@ -42,7 +42,6 @@ A partir do diretório raiz do projeto rode o seguinte comando no CMD:
 
 ```
 java -cp out/production/chess-system application.Program
-
 ```
 ## 🎮 Como Jogar
 
